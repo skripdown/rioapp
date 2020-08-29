@@ -1,0 +1,8 @@
+1. Login test case
+2. Membuat laporan test case
+3. Membuat arsip test case
+3. Membuat rapat test case
+3. Mengaktifkan scanner test case
+3. Memindai kode qr hadir test case
+3. Menandai izin test case
+3. Menutup rapat test case

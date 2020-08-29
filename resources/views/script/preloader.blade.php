@@ -1,0 +1,3 @@
+<script>
+    $(".preloader ").fadeOut();
+</script>
